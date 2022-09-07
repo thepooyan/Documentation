@@ -6,8 +6,8 @@ ctrl + e
 	edit mode toggle
 
 double bracet [[]]
-	 create [[links]]
-	create links with folders [[links]]
+	 create [[part 2]]
+	create links with folders [[part 2]]
 	apparently it always gets the address from the root
 	
 you can drag and drop images 
