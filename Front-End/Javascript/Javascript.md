@@ -5,3 +5,5 @@
 	- [[onclick system]]
 	- [[targeting system]]
 - [[0Regex]]
+- [[js foreach]]
+
