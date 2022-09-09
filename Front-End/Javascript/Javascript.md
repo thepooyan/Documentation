@@ -4,3 +4,8 @@
 - systems
 	- [[onclick system]]
 	- [[targeting system]]
+
+
+## Problems
+- [[js foreach]]
+- 
