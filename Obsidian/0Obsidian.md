@@ -11,4 +11,3 @@ double bracet [[]]
 	apparently it always gets the address from the root
 	
 you can drag and drop images 
-![[Kerfin7_NEA_2341.png]]

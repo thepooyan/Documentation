@@ -4,7 +4,7 @@
 - click systems
 	- [[onclick system]]
 	- [[targeting system]]
-- [[0Regex]]
+- [[Regex]]
 
 ## Problems
 - [[js foreach]]

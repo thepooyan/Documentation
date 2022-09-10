@@ -1,3 +1,4 @@
+```javascript
 	let text = 'this is text'
 	let pattern = /is/
 	
@@ -41,3 +42,5 @@
 	
 	you can group things with ()
 	(t|T)he		/selects the | The
+
+```
