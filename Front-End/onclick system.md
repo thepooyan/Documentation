@@ -1,4 +1,8 @@
-	  //* onclick system
+---
+learned: true
+endPoint: true
+---
+	  //* onclick system
 	  refreshOnClicks();
 	  function refreshOnClicks() {
 	    let clicker = dc.queries("[data-onClick]");

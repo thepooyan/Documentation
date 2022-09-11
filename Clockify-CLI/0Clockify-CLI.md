@@ -1,3 +1,8 @@
+---
+learned: false
+CLI: true
+endPoint: true
+---
 	clock is alias for clockify-cli
 	
 	clock in (input a new time entry)(interactive)
