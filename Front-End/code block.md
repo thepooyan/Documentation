@@ -1,3 +1,4 @@
+```js
     //* Homeslider
     (function () {
         let sliderImages = dc.queries("#slider .images .img");
@@ -104,3 +105,4 @@
             }
         }
     })()
+```

@@ -1,4 +1,5 @@
 ## this is main
+```pug
 	mixin comment(data)
 	    .wrapper
 	        span.name= data.name
@@ -13,10 +14,14 @@
 	    include comp.pug
 	
 	    +comment({name:'pooyan', ln:'salmani'})
+```
 
+&nbsp;
 ## this is comp.pug:
+```pug
 	h2 this is a component
 		ul
 			li one
 			li two
 			li three
+```

@@ -1,3 +1,4 @@
+```pug
     for num, indx in [1, 2, 3, 4, 5]
         p= `this is the number: ${num} and index: ${indx}`
 
@@ -7,3 +8,4 @@
         p= `key: ${k} and val ${vp}`
     else
         p nothing found!
+```

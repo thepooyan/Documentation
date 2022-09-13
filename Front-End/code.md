@@ -1,3 +1,4 @@
+```js
     //* Target system (grouped and single)
     let targeter = dc.queries('[data-target]');
 
@@ -17,3 +18,4 @@
             })
         }
     })
+```

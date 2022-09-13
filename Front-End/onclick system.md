@@ -2,6 +2,7 @@
 learned: true
 endPoint: true
 ---
+```js
 	  //* onclick system
 	  refreshOnClicks();
 	  function refreshOnClicks() {
@@ -32,3 +33,4 @@ endPoint: true
 	      }
 	    })
 	  }
+```

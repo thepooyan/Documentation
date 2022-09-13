@@ -3,6 +3,7 @@ learned: false
 CLI: true
 endPoint: true
 ---
+```
 	clock is alias for clockify-cli
 	
 	clock in (input a new time entry)(interactive)
@@ -21,3 +22,5 @@ endPoint: true
 	clock report (get the report for today)
 	clock report this-month --duration-formatted -p cli (get this mounth total sum) (duration formatted sums it up) (don't know what the last one means :) )
 	
+
+```

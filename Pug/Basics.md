@@ -1,3 +1,4 @@
+```pug
     a#attentionBanner this is the banner
 	    p hello this is a paragraph
 	    br
@@ -26,3 +27,4 @@
 	
 	    - let attrib = {'src': './folder', 'alt': 'this is dummt image'}
 	    img&attributes(attrib)
+```
