@@ -6,6 +6,7 @@
 	- [[targeting system]]
 - [[Regex]]
 - search through all links of a page to find something: [[link search]]
+- [[object constrauction]]
 
 ## Problems
 - [[js foreach]]

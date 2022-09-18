@@ -8,3 +8,4 @@
 2. [[Componental]]
 3. [[Iteration]]
 4. [[ Switch]]
+5. [[attribute objectation]]
