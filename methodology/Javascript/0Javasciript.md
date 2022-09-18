@@ -1,3 +1,4 @@
+## my js methods
 1. [[doSmIfCompIsSeen]]
 2. [[isVisible]]
 3. [[loadCompOnScroll]]
