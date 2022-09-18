@@ -4,4 +4,4 @@
 1. ![[styles and classnames]]
 2. ![[Hooks]]
 3. [[React-router-dom]]
-4.`props.children > returns everything between the tags!`
+4. `props.children > returns everything between the tags!`

@@ -1,5 +1,30 @@
+# js foreach problem
+
+in main js file of a page, adding this [[code]]:
 ```js
-    //* Homeslider
+    //* Target system (grouped and single)
+    let targeter = dc.queries('[data-target]');
+
+    targeter.forEach(i => {
+        let target = dc.query(i.dataset.target);
+        let value = i.dataset.targetvalue ? i.dataset.targetvalue : 'active';
+        if (target.dataset.group) {
+            i.addEventListener('click', function () {
+                dc.queries(`[data-group=${target.dataset.group}]`).forEach(item => {
+                    item.classList.remove(value);
+                })
+                target.classList.add(value);
+            })
+        } else {
+            i.addEventListener('click', function () {
+                target.classList.toggle(value);
+            })
+        }
+    })
+```
+will make this [[code block]]:
+```js
+   //* Homeslider
     (function () {
         let sliderImages = dc.queries("#slider .images .img");
         let sliderTimeout = document.getElementById('slider').getAttribute('data-timeout');
@@ -106,3 +131,5 @@
         }
     })()
 ```
+output an error.
+the problem gets fixed by chaging foreach to a normal for loop. had seen this before somewhere...
