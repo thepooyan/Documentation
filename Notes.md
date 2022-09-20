@@ -23,3 +23,5 @@ thing i should pay for in the future: fl studio, mosh hamedani
 ## intresting prj ideas:
 1. html css studio. (generate code from ui)
 2. syntax heighlighter
+
+## https://sinatik.com/
