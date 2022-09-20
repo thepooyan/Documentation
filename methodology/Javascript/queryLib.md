@@ -32,3 +32,11 @@
 }) ()
 
 ```
+
+## usage:
+use `dc.query("selector")` instead of `document.querySelector("selector")`
+you can also use `dc.queries` and `dc.id` for *querySelectorAll* and *getElementById*
+it can also be used for nested selections:
+```js
+dc.query('div').queries('.item').id('hello')
+```
