@@ -13,7 +13,7 @@
 
 ## todos:
 ```dataview
-table
-from "0React-next"
-where todo=ture
+table todo as "To Do"
+from "Documentation/React-next"
+where todo
 ```
