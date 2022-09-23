@@ -7,3 +7,8 @@ show a file in a diffrenct commit or branch
 ```cli
 git show branch:file
 ```
+
+restore a file from a specific commit:
+```cli
+git checkout HEAD^ -- filepath
+```
