@@ -1,4 +1,4 @@
 # topics
 
 1. ![[CSS address system]]
-2. ![[media query break points]]
+2. ![[media query break points and dynamic orientation]]
