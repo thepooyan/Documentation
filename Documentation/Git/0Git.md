@@ -12,3 +12,5 @@ restore a file from a specific commit:
 ```cli
 git checkout HEAD^ -- filepath
 ```
+
+[[Reseting merge commit]] 

@@ -1,6 +1,8 @@
 ```scss
 @mixin box($item) {
-    width: $item;
-    height: $item;
+    $wid:--wid;
+    #{$wid}: $item;
+    width: var(--wid);
+    height: var(--wid);
 }
 ```
