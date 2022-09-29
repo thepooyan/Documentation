@@ -1,5 +1,6 @@
 ---
-todo: true
+search: localstorage, cookie and session
+category: Javascript
 ---
 ```jsx
 localStorage.setItem("key", "value")
