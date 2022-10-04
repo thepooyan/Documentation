@@ -14,3 +14,5 @@ git checkout HEAD^ -- filepath
 ```
 
 [[Reseting merge commit]] 
+
+[[History of a file]] 
