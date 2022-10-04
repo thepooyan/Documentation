@@ -13,7 +13,9 @@
 	2. [[targeting system]]
 6. search through all links of a page to find something: [[link search]]
 
-
+8. [[timeInputCalc]]
+9. [[Load styles and scripts via js]] 
+10. [[Lazy load pictures]] 
 
 ## Problems
 - [[js foreach]]
