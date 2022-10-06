@@ -1,7 +1,7 @@
 ```js
 // queryLib
 (function() {
-    let dc = {
+    const dc = {
         query: (e) => {
             return query(document, e);
         },

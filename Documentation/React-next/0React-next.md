@@ -1,7 +1,16 @@
-# React js
+![[React js]]
+![[Next js]] 
 
-## topics
-1. ![[Basics]]
-2. ![[styles and classnames]]
-3. ![[Hooks]]
-4. [[React-router-dom]]
+
+## todos:
+```dataview
+table
+from "Documentation/React-next"
+where todo
+```
+## to search
+```dataview
+table 
+from "Documentation/React-next"
+where search
+```

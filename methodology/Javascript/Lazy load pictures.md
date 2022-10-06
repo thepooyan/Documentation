@@ -1,3 +1,4 @@
+dependencies: jquery
 ```js
     function lazyLoadPics() {
         $("[data-src]").each(function () {

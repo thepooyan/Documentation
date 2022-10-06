@@ -1,0 +1,5 @@
+- ![[Ajax]]
+- [[Promise]] 
+- [[../React-next/Fetch with Promise]]
+- [[../React-next/Async Await]]
+- [[Axios]] 

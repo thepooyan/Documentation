@@ -1,0 +1,1 @@
+# Joi is used to validate request bodies comparing to a *schema*
