@@ -11,6 +11,7 @@
 8. [[timeInputCalc]]
 9. [[Load styles and scripts via js]] 
 10. [[Lazy load pictures]] 
+11. [[Copyable]] 
 
 ## Problems
 - [[js foreach]]
