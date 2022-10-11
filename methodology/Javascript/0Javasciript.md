@@ -6,7 +6,7 @@
 
 6. search through all links of a page to find something: [[link search]]
 
-8. [[timeInputCalc]]
+8. [[deadlineCalendar]]
 9. [[Load styles and scripts via js]] 
 10. [[Lazy load pictures]] 
 11. [[Copyable]] 

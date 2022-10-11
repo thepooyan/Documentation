@@ -25,3 +25,5 @@ thing i should pay for in the future: fl studio, mosh hamedani
 2. syntax heighlighter
 
 ## https://sinatik.com/
+
+https://www.youtube.com/watch?v=A95mIE2HdcY

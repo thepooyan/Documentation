@@ -1,7 +1,7 @@
 ```js
-//*Time Input Calc
-let setCounterDate = (date) => {
-    let parseMMDD = (string) => {
+//*deadline Calendar
+const setCounterDate = (date) => {
+    const parseMMDD = (string) => {
         let mm = parseInt(string[0]);
         let m = parseInt(string[1]);
         let dd = parseInt(string[3]);
