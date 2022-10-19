@@ -1,2 +1,3 @@
-![[Bash]]
-![[Bash scripting]]
+[[Bash]]
+[[Bash scripting]]
+[[Manual package installation]] 

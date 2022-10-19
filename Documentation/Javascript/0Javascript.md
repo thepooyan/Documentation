@@ -4,7 +4,7 @@
 - [[import - export]]  
 - [[jwt]] 
 - [[Objects and Classes]] 
-- [[setting the type of new variables using CONST]] 
+- [[../typescript/setting the type of new variables using CONST]] 
 - [[Closure]] 
 - [[Currying]] 
 - [[This keyword]] 
@@ -17,3 +17,4 @@ table search ,category as Section
 from "Documentation/Javascript"
 where search
 ```
+[[Typescript]] 
