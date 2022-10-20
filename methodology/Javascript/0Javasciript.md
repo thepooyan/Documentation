@@ -14,3 +14,7 @@
 
 ## Problems
 - [[js foreach]]
+
+## concenpts
+1. [[Async]] 
+2. [[Event loop]] 

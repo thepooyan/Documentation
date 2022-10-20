@@ -16,3 +16,13 @@ git checkout HEAD^ -- filepath
 [[Reseting merge commit]] 
 
 [[History of a file]] 
+
+```cli
+git commit --amend --no-edit //keep the msg
+```
+
+[[git stash]] 
+
+```
+git logs --graph --decorate
+```
