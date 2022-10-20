@@ -10,6 +10,7 @@
 9. [[Load styles and scripts via js]] 
 10. [[Lazy load pictures]] 
 11. [[Copyable]] 
+12. [[JQuery ajax loader percent]] 
 
 ## Problems
 - [[js foreach]]
