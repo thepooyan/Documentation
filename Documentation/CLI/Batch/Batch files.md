@@ -17,3 +17,5 @@ exit
 if errorlevel 1 goto errorHandle //0 means no error
 if %errorlevel%==1 ()
 ```
+
+[[Publish.bat]] 
