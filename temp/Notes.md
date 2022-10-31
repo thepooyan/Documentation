@@ -27,3 +27,5 @@ thing i should pay for in the future: fl studio, mosh hamedani
 ## https://sinatik.com/
 
 https://www.youtube.com/watch?v=A95mIE2HdcY
+
+select 2 js lib
