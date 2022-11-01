@@ -1,0 +1,14 @@
+- [ ] docker
+- [ ] linux
+- [ ] nodejs
+- [ ] mysql
+- [ ] mongo DB
+- [ ] netwrok +
+- [x] react
+- [x] next
+- [x] sass
+- [x] git
+- [x] html
+- [x] css
+- [x] js
+- [x] pug
