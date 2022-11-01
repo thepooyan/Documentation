@@ -11,6 +11,7 @@
 10. [[Lazy load pictures]] 
 11. [[Copyable]] 
 12. [[JQuery ajax loader percent]] 
+13. [[heightAnimationed element]] 
 
 ## Problems
 - [[js foreach]]
