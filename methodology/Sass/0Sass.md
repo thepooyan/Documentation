@@ -7,3 +7,7 @@
 2. [[Using css variables in sass]] 
 3. [[Overide container margin (fullscreen)]] 
 4. [[to way binding with veiwport width and font size]] 
+
+
+# general structure
+[[The general structure]] 
