@@ -7,6 +7,7 @@
 2. [[Using css variables in sass]] 
 3. [[Overide container margin (fullscreen)]] 
 4. [[to way binding with veiwport width and font size]] 
+5. [[dynamic font awsome ]] 
 
 
 # general structure
