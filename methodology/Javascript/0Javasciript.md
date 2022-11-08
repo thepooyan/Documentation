@@ -12,6 +12,8 @@
 11. [[Copyable]] 
 12. [[JQuery ajax loader percent]] 
 13. [[heightAnimationed element]] 
+14. [[mutation observe]] 
+15. [[respont to visibility]] 
 
 ## Problems
 - [[js foreach]]

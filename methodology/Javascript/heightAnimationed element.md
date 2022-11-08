@@ -1,9 +1,28 @@
 dependencies: [[queryLib]]
 ```js
 //height animation
-dc.queries('.heightAnimation').forEach(item => {
-	item.style.setProperty('--maxHeight', item.scrollHeight + 'px') ;
-})
+function setHeightProperties(section) {
+    console.log('hello');
+    section.querySelectorAll('.heightAnimation').forEach(item => {
+        console.log(item);
+        if (window.getComputedStyle(item).display === 'none') {
+            let observer = new MutationObserver(function (mutations) {
+                mutations.forEach((mutationsRecord) => {
+                    if (window.getComputedStyle(mutationsRecord.target).display !== 'none') {
+                        setHeightProperty(mutationsRecord.target)
+                        observer.disconnect();
+                    }
+                });
+            });
+            observer.observe(item, { attributes: true });
+        } else {
+            setHeightProperty(item);
+        }
+    })
+    function setHeightProperty(i) {
+        i.style.setProperty('--maxHeight', i.scrollHeight + 'px');
+    }
+}
 ```
 
 ```scss
