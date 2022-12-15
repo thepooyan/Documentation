@@ -14,6 +14,7 @@
 13. [[heightAnimationed element]] 
 14. [[mutation observe]] 
 15. [[respont to visibility]] 
+16. [[the amazing modal!]] 
 
 ## Problems
 - [[js foreach]]
