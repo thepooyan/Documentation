@@ -1,9 +1,16 @@
-dependencies: [[queryLib]]
+dependencies: [[respont to visibility]]
 ```js
 //height animation
-dc.queries('.heightAnimation').forEach(item => {
-	item.style.setProperty('--maxHeight', item.scrollHeight + 'px') ;
-})
+function setHeightProperties(section) {
+    section.querySelectorAll('.heightAnimation').forEach(item => {
+        respondToVisibility(item, _ => {
+            setHeightProperty(item);
+        }, true)
+    })
+    const setHeightProperty = (i) => {
+        i.style.setProperty('--maxHeight', i.scrollHeight + 'px');
+    }
+}
 ```
 
 ```scss
