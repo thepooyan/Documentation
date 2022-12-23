@@ -15,6 +15,8 @@
 14. [[mutation observe]] 
 15. [[respont to visibility]] 
 16. [[the amazing modal!]] 
+17. [[changable image src]] 
+18. [[scroll element into veiw with callback]] 
 
 ## Problems
 - [[js foreach]]
