@@ -11,6 +11,7 @@
 - [[Prototype]] 
 - [[AJAX & Async]] 
 - [[jsDoc comments]] 
+- [[ES6 import vs commonjs requrie]] 
 
 # to seach
 ```dataview
