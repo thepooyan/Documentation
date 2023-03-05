@@ -1,3 +1,6 @@
+## to memorize
+`5gg` goto line 5
+
 
 ## normal mode:
 
@@ -10,9 +13,10 @@ u - undo
 ctrl +r - redo
 
 p - paste
-y -copy
+y - copy
 d - cut
 D - cut but keep the line empty
+c - replace
 yy - copy whole line
 
 cc - rewirte the whole line

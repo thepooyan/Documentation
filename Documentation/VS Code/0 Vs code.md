@@ -9,7 +9,7 @@ command pallet:
 
 
 `ctrl + shift + .`    navigate through symbols
-`ctrl + p, @`              search through symbols
+`ctrl + p, @` or `ctrl + shift + O`              search through symbols
 `ctrl + p, #`              global search through symbols
 
 
