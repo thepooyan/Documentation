@@ -6,8 +6,10 @@
 
 hkjl - navigation
 iaIA - start editing line
-xr - remote or rplace
-o - new line
+x - remove
+r - replace
+o - new line below
+(shift reversed everything)
 
 u - undo
 ctrl +r - redo
