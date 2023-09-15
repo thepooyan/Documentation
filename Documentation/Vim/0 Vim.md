@@ -1,18 +1,24 @@
+## to memorize
+`5gg` goto line 5
+
 
 ## normal mode:
 
 hkjl - navigation
 iaIA - start editing line
-xr - remote or rplace
-o - new line
+x - remove
+r - replace
+o - new line below
+(shift reversed everything)
 
 u - undo
 ctrl +r - redo
 
 p - paste
-y -copy
+y - copy
 d - cut
 D - cut but keep the line empty
+c - replace
 yy - copy whole line
 
 cc - rewirte the whole line

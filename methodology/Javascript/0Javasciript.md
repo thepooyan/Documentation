@@ -17,6 +17,8 @@
 16. [[the amazing modal!]] 
 17. [[changable image src]] 
 18. [[scroll element into veiw with callback]] 
+19. [[smooth scrolling with jquery]] 
+20. [[STATE]] 
 
 ## Problems
 - [[js foreach]]
