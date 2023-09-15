@@ -1,3 +1,3 @@
 # SQL
-1. [[Basics]]
-2. 
+1. [[Documentation/SQL/Basics]]
+2. [[linux testrun]]

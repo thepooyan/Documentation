@@ -6,7 +6,7 @@ tags: programing, javascript
 ---
 # Node js
 1. [[interaction]]
-2. [[Basics]]
+2. [[Documentation/Node js/Basics]]
 3. modules
 	1. [[path]] 
 	2. [[fs]]  

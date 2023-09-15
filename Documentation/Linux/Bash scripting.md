@@ -5,6 +5,7 @@
 4. [[while]] 
 5. [[arry]] 
 6. [[redirecting output to files]] 
+7. [[Date format]]
 
 
 ## scripts

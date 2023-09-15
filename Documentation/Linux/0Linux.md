@@ -1,0 +1,10 @@
+[[Bash]]
+[[Bash scripting]]
+[[Application packaging]]
+[[how to install with flatpak]]
+[[create bootable usb]]
+[[create desktop entry]]
+### distros:
+[[0Manjaro]]
+[[0NixOs]]
+[[0Ubuntu]]

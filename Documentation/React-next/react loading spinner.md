@@ -20,4 +20,4 @@ const app = () => {
 }
 ```
 
-*refrence:* [[Fetch with Promise]], [[Async Await]], [[Basics]]
+*refrence:* [[Fetch with Promise]], [[Async Await]], [[Documentation/React-next/Basics]]

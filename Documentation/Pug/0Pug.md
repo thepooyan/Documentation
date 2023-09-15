@@ -4,7 +4,7 @@
 
 
 # pug usage
-1. [[Basics]]
+1. [[Documentation/Pug/Basics]]
 2. [[Componental]]
 3. [[Iteration]]
 4. [[ Switch]]
