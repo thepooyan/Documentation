@@ -12,6 +12,7 @@
 - [[AJAX & Async]] 
 - [[jsDoc comments]] 
 - [[ES6 import vs commonjs requrie]] 
+- [[onchange and onread for variables]]
 
 # to seach
 ```dataview
