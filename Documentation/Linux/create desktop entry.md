@@ -1,4 +1,6 @@
 `/usr/share/applications/[name].desktop`
+or:
+`/home/pooyan/.local/share/applications` (this is mine)
 ```
 [Desktop Entry]
 Version=1.0

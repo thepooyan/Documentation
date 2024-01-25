@@ -5,7 +5,14 @@
 	1. [[Dataveiw]], [[Dataveiw prt2]]
 	2. [ ] [[templater]]
 
+link to google:
+[google](https://www.google.com)
 
+external image:
+![Engelbart](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+
+link a part (block) of another file: 
+![[markdown#^7b94f4]]
 ## Obsidian
 ctrl + n
 	new note
@@ -21,4 +28,4 @@ double bracet [[]]
 	
 you can drag and drop images 
 
-ctrl + Enter for checklists
+alt + l for checklists

@@ -1,4 +1,3 @@
-onClick={}onClick={}# to search:
 ```dataview
 table search, category as Section
 where search and !done

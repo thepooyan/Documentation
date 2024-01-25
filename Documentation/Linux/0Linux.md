@@ -4,6 +4,7 @@
 [[how to install with flatpak]]
 [[create bootable usb]]
 [[create desktop entry]]
+[[tmux]]
 ### distros:
 [[0Manjaro]]
 [[0NixOs]]

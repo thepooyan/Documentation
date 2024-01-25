@@ -1,12 +1,12 @@
 # h1
 ## h2
 
-paragraph is just simple text. **bold** and *italic* and ~~strike through~~
+paragraph is just simple text. **bold** and *italic* and ~~strike through~~ and ==heighlighted==
 
 &nbsp;  
 &nbsp;  
 another paragraph (above code is to have more than one line space between elements)
-and `some quote of *code*` in here
+and `some quote of *code*` in here ^7b94f4
 
 1. li
 2. li
