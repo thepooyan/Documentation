@@ -25,6 +25,10 @@ double bracet [[]]
 	create links
 	create links with folders [[folder/test]]
 	(apparently it always gets the address from the root)
+
+reference with a different name
+	[[the actual refrence|the text]]
+	
 	
 you can drag and drop images 
 
