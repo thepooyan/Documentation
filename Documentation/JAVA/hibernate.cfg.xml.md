@@ -1,0 +1,1 @@
+this file contains information to connect to the database

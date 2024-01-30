@@ -1,0 +1,46 @@
+sample for `v4` plus MySQL connector:
+(all of the below can be found at [here](https://hibernate.org))
+```xml
+<dependencies>
+	 <dependency>
+		<groupId>org.hibernate.orm</groupId>
+		<artifactId>hibernate-core</artifactId>
+		<version>6.4.0.Final</version>
+	</dependency>
+	<dependency>
+		<groupId>org.hibernate.orm</groupId>
+		<artifactId>hibernate-spatial</artifactId>
+		<version>6.4.0.Final</version>
+	</dependency>
+	<dependency>
+		<groupId>org.hibernate.orm</groupId>
+		<artifactId>hibernate-envers</artifactId>
+		<version>6.4.0.Final</version>
+	</dependency>
+	<dependency>
+		<groupId>org.hibernate.orm</groupId>
+		<artifactId>hibernate-hikaricp</artifactId>
+		<version>6.4.0.Final</version>
+	</dependency>
+	<dependency>
+		<groupId>org.hibernate.orm</groupId>
+		<artifactId>hibernate-c3p0</artifactId>
+		<version>6.4.0.Final</version>
+	</dependency>
+	<dependency>
+		<groupId>org.hibernate.orm</groupId>
+		<artifactId>hibernate-proxool</artifactId>
+		<version>6.4.0.Final</version>
+	</dependency>
+	<dependency>
+		<groupId>org.hibernate.orm</groupId>
+		<artifactId>hibernate-jcache</artifactId>
+		<version>6.4.0.Final</version>
+	</dependency>
+	<dependency>
+		<groupId>mysql</groupId>
+		<artifactId>mysql-connector-java</artifactId>
+		<version>8.0.33</version>
+	</dependency>
+</dependencies>
+```

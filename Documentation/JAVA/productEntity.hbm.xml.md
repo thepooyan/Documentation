@@ -1,0 +1,1 @@
+this file maps the product entity class to the corresponding table in database
