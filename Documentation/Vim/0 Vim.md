@@ -9,7 +9,7 @@ iaIA - start editing line
 x - remove
 r - replace
 o - new line below
-(shift reversed everything)
+(shift reverses everything)
 
 u - undo
 ctrl +r - redo

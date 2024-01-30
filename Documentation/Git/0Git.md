@@ -26,3 +26,4 @@ git commit --amend --no-edit //keep the msg
 ```
 git logs --graph --decorate
 ```
+[[Git reminder]]

@@ -7,3 +7,4 @@
 2. [[static generation]]
 3. [[SSR]]
 4. [[Deploy]] 
+5. [[Next 13]]

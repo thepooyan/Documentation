@@ -1,3 +1,7 @@
+---
+todo: make a docker file
+---
+
 ![[Basic commands]] 
  ]] 
 [[Dockerfile]] 
