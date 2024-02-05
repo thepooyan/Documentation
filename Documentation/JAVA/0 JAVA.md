@@ -1,4 +1,6 @@
 [[apache_log4j]]
 [[hibernate]]
 [[Spring (IOC)]]
+[[Spring boot]]
 [[Jackson]]
+[[Maven]]
