@@ -1,0 +1,1 @@
+[[Relations (JPA, Hibernate, spring data jpa)]]

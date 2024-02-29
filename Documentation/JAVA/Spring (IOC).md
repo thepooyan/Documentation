@@ -22,3 +22,9 @@ lazy beans:
 
 [[name vs id]]
 [[c and p namespace]]
+[[Application context aware]]
+[[auto wire]]
+[[annotation based config (autowire)]]
+[[multi config]]
+[[init and destroy method]]
+[[java based config]]

@@ -4,3 +4,6 @@
 [[Jackson]]
 
 [[Spring data jpa]]
+[[Spring boot]]
+[[Jackson]]
+[[Maven]]
