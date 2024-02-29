@@ -1,5 +1,4 @@
 #! /usr/bin/bash
-#! /usr/bin/bash
 
 git status -s
 echo ____________________________files
