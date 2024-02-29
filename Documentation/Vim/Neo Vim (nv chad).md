@@ -1,3 +1,4 @@
+[[batch 2]]
 leader = SPACE
 A = ALT
 C = CTRL

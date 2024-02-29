@@ -1,3 +1,5 @@
+[[replace all]]
+[[surround.vim]]
 ## to memorize
 `5gg` goto line 5
 

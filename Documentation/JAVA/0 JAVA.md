@@ -2,3 +2,5 @@
 [[hibernate]]
 [[Spring (IOC)]]
 [[Jackson]]
+
+[[Spring data jpa]]

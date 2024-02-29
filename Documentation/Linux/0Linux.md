@@ -5,6 +5,8 @@
 [[create bootable usb]]
 [[create desktop entry]]
 [[tmux]]
+[[set dns]]
+[[i3]]
 ### distros:
 [[0Manjaro]]
 [[0NixOs]]

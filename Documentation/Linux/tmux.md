@@ -20,18 +20,20 @@ source it using this command:
 ```bash
 tmux source ~/.tmux.conf
 ```
+and run \[pk]+I  to install the mentioned plugins.
+
 ***
-\[pk] = ctrl + b
+\[pk] = ctrl + space
 
 
 \[pk] + c => new window
-\[pk] + [num] => cycle windows
+\[pk] + \[num] => cycle windows
 \[pk] + n => next window
 \[pk] + p => prev window
 \[pk] + % => kill a window
 \[pk] + " => split verticlry
 \[pk] + % => split horizontolly
-\[pk] + [arrow keys] => navigate
+\[pk] + \[arrow keys] => navigate
 \[pk] + q => navigate usuing numbers
 \[pk] + z => full screen a panel
 \[pk] + ! => make panel into a new window

@@ -1,3 +1,4 @@
+[[Mirror download update]]
 ```cli
 sudo pacman -S (sync)
 sudo pacman -Sy compare with remote

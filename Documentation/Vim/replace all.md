@@ -1,0 +1,3 @@
+```
+:%s/oldStr/newStr/g
+```
