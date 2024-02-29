@@ -24,3 +24,4 @@ session.close();
 [[Jakarta persistence API (JPA)]]
 [[HQL]]
 [[JPQL]]
+[[Relations (JPA, Hibernate, spring data jpa)]]

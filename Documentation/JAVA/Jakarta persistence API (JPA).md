@@ -1,3 +1,4 @@
+[[Relations (JPA, Hibernate, spring data jpa)]]
 [[persistence.xml]]
 ![[JPA key lines]]
 [[JPA entity]]
