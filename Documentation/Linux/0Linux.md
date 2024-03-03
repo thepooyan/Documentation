@@ -1,7 +1,7 @@
 [[Bash]]
 [[Bash scripting]]
 [[Application packaging]]
-[[how to install with flatpak]]
+[[flatpak]]
 [[create bootable usb]]
 [[create desktop entry]]
 [[tmux]]

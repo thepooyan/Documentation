@@ -12,7 +12,7 @@ sudo pacman -Ss search
 
 sudo pacman -R Remove
 sudo pacman -Rs Remove with dependencies
-sudo pacman -Rn Remove with system config filescleaclpa
+sudo pacman -Rn Remove with system config files
 
 pacman -Q list installed packages
 pacman -Qm list all AUR packages (and n for normal ones)
