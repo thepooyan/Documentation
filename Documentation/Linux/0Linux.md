@@ -7,6 +7,8 @@
 [[tmux]]
 [[set dns]]
 [[i3]]
+[[installing fonts]]
+[[kitty]]
 ### distros:
 [[0Manjaro]]
 [[0NixOs]]
