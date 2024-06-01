@@ -1,4 +1,6 @@
 [[batch 2]]
+[[nvim tree]]
+[[rename in all files]]
 leader = SPACE
 A = ALT
 C = CTRL

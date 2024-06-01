@@ -39,8 +39,16 @@ cat >file   /gets input (ctrl + d for done) to put in file. input can but some o
 cat >>file  /gets input and ADDS it to the contents of file
 
 less     /read files with lots of feautuers
-nano    /my fav text editor
+nano    /not my fav text editor
+vim     /my fav text editor
 
 watch	/runs a command every 2 sec and updates the result (watch free -h)
 
 ```
+
+# More:
+
+- [[switch-case]]
+- [[file premissions]] 
+- [[m locate]] 
+- [[Creating links]]

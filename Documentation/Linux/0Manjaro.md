@@ -1,4 +1,4 @@
 rolling release
 [[Manual package installation (AUR)]]
+[[yay]]
 [[Pacman]]
-[[Mirror download update]]
