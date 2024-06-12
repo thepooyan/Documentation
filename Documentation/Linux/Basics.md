@@ -46,9 +46,3 @@ watch	/runs a command every 2 sec and updates the result (watch free -h)
 
 ```
 
-# More:
-
-- [[switch-case]]
-- [[file premissions]] 
-- [[m locate]] 
-- [[Creating links]]

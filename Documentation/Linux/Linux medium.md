@@ -1,0 +1,7 @@
+- [[switch-case]]
+- [[file premissions]] 
+- [[m locate]] 
+- [[Creating links]]
+- [[grep]]
+- [[sed]]
+- [[fzf]]
