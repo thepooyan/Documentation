@@ -1,6 +1,6 @@
 [[0Typescript - react]] 
 installation:
-```cli
+```bash
 npm i -g typescript
 ```
 

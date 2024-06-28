@@ -1,4 +1,4 @@
-```cli
+```bash
 CTRL + L	clear the screen
 -------------------------------
 pwd

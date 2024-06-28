@@ -1,7 +1,7 @@
 cd is aliased to z:
 `alias cd=z`
 
-```cli
+```bash
 z add "directory path" //increment dir rank
 z query -s "directory path"
 z query -l //list all entries

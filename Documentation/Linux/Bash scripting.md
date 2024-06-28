@@ -7,6 +7,7 @@
 6. [[redirecting output to files]] 
 7. [[Date format]]
 
+[[pro bash scripting]]
 
 ## scripts
 1. [[nbash]] 

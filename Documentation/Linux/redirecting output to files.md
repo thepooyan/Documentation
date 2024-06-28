@@ -1,4 +1,4 @@
-```cli
+```bash
 #! /usr/bin/bash
 
 ls -al > a.txt  #if command is successfull result will get redirected

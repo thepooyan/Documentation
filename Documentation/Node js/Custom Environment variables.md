@@ -1,7 +1,7 @@
 for safe keeping passwords in config files, we store them in env variables and map them to be accessible inside config object from [[Config based on Env]];
 
  1. set the variable
-```cli
+```bash
 export app_password=1234 
 ```
 

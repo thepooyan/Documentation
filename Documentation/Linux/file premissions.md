@@ -1,4 +1,4 @@
-```cli
+```bash
 user	group	everyone
 rwx	rwx	rwx
 

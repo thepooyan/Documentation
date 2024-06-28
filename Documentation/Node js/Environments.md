@@ -1,7 +1,7 @@
 ```js
 app.get('env') //returns the current environment. default is 'development'
 ```
-```cli
+```bash
 export NODE_ENV=production    //changeing environment to productions
 ```
 

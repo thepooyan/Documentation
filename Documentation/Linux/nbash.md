@@ -1,4 +1,4 @@
-```cli
+```bash
 #! /usr/bin/bash
 read -p 'new bash? ' bash
 echo '#!' $(which bash) > $bash.sh

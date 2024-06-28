@@ -1,3 +1,3 @@
-```cli
+```bash
 git log -p -- <filepath>
 ```

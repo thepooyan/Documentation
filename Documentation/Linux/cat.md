@@ -1,4 +1,4 @@
-```cli
+```bash
 #! /usr/bin/bash
 echo hello
 cat > file << var

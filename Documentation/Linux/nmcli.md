@@ -1,4 +1,4 @@
-```cli
+```bash
 nmcli radio wifi //get status
 nmcli radio wifi on
 nmcli radio wifi off

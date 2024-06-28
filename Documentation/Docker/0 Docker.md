@@ -3,7 +3,7 @@ todo: make a docker file
 ---
 
 useful command:
-```cli
+```bash
 sudo docker run -p 1234:12344 --rm -d --name back pooyan
 ```
 

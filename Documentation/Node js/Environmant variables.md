@@ -4,6 +4,6 @@ process.env.PORT
 ```
 
 set:
-```cli
+```bash
 export PORT=5000
 ```

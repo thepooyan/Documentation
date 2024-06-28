@@ -1,5 +1,5 @@
 create config file:
-```cli
+```bash
 tsc --init
 ```
 

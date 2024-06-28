@@ -1,4 +1,4 @@
-```cli
+```bash
 docker run imageName //if not present will pull from hub
 docker stop [container name OR id]
 docker ps //list all running containers

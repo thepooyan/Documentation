@@ -4,7 +4,7 @@ we're using two libraries here:
 - redux toolkit: easire store and reducer creation and handling
 *redux itself will be installed as a dependency of redux toolkit. so it is usable for [[Reducer combiner]], no need for reinstalling*
 
-```cli
+```bash
 npm install @reduxjs/toolkit react-redux
 ```
 

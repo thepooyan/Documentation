@@ -1,15 +1,15 @@
 export a file in another branch without checking out to the branch
-```cli
+```bash
 git show branch:file > exported_file
 ```
 
 show a file in a diffrenct commit or branch
-```cli
+```bash
 git show branch:file
 ```
 
 restore a file from a specific commit:
-```cli
+```bash
 git checkout HEAD^ -- filepath
 ```
 
@@ -17,7 +17,7 @@ git checkout HEAD^ -- filepath
 
 [[History of a file]] 
 
-```cli
+```bash
 git commit --amend --no-edit //keep the msg
 ```
 

@@ -1,4 +1,4 @@
-```cli
+```bash
 #! /usr/bin/bash
 
 var=10
@@ -44,7 +44,7 @@ else
 		echo 'its not 10'
 fi
 
-:"Nested if
+# Nested if
 if [ $count -eq 10 ]
 then
 		echo 'it is 10'

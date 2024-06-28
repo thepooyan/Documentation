@@ -3,7 +3,7 @@ learned: false
 CLI: true
 endPoint: true
 ---
-```cli
+```bash
 	clock is alias for clockify-cli
 	
 	clock in (input a new time entry)(interactive)

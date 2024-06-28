@@ -18,6 +18,8 @@
 [[mariadb]]
 [[ufw (firewall)]]
 [[nginx]]
+[[pass]]
+[[gpg]]
 ### distros:
 [[0Manjaro]]
 [[0NixOs]]

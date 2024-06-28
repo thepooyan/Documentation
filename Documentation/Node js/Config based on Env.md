@@ -1,4 +1,4 @@
-```cli
+```bash
 npm i config
 ```
 

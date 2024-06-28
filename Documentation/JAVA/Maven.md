@@ -2,7 +2,7 @@
 [[archetypes]]
 
 commands:
-```cli
+```bash
 mvn clean package
 ```
 

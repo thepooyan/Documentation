@@ -1,5 +1,5 @@
 [[Mirror download update]]
-```cli
+```bash
 sudo pacman -S (sync)
 sudo pacman -Sy compare with remote
 sudo pacman -Su install what you have compared

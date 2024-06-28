@@ -1,4 +1,4 @@
-```cli
+```bash
 sudo -s		/become the super user
 exit		/exit the super user
 sudo -		/become the super user (not recommended version)??
