@@ -1,3 +1,9 @@
+---
+id: 0Linux
+aliases: []
+tags: []
+---
+
 [[Bash]]
 [[Bash scripting]]
 [[Application packaging]]
@@ -20,6 +26,7 @@
 [[nginx]]
 [[pass]]
 [[gpg]]
+[[Hibernation]]
 ### distros:
 [[0Manjaro]]
 [[0NixOs]]
