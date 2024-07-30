@@ -1,7 +1,7 @@
 ---
-id: Network with jadi
-aliases: []
-tags: []
+date: "2024-07-30"
+name: Network with jadi
+time: 14:59
 ---
 
 # Network with jadi
@@ -25,7 +25,8 @@ ip addr show # show network cards and their ip
 
 # /24 means net mask is : 255.255.255.0
 ip addr add 192.168.1.20/24 dev [name of the network card]
-ip change add 192.168.1.20/24 dev [name of the network card]
+ip addr change 192.168.1.20/24 dev [name of the network card]
+ip addr del 192.168.1.20/24 dev [name of the network card]
 ping [ip] # obviously
 
 # address resolution protocol

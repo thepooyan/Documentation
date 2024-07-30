@@ -1,6 +1,13 @@
+---
+id: Neo Vim (nv chad)
+aliases: []
+tags: []
+---
+
 [[batch 2]]
 [[nvim tree]]
 [[rename in all files]]
+[[Deep]]
 leader = SPACE
 A = ALT
 C = CTRL
