@@ -37,6 +37,12 @@ arp -d [ip] # remove an ip from arp table
 [[DHCP]]
 [[netmask]]
 [[private-ips]]
+[[ip route]]
+[[traceroute]]
+[[nslookup]]
+[[dig]]
+[[mtr]]
+[[netcat-telnet]]
 
 # ip and netmask
 first part => netwrok
@@ -48,4 +54,4 @@ if host is:
 - all zeros     =>  netwrok address
 - all ones      =>  borad cast
 
-- learn wireshark and tcp dump
+- learn [[wireshark]] and tcp dump
