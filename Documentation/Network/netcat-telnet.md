@@ -7,7 +7,7 @@ time: 15:18
 # netcat-telnet
 
 - netcat is for listening
-- telnet is for sending (with udp)
+- telnet is for sending (with tcp)
 
 ```bash
 nc -l -p 10000 
