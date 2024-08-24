@@ -28,11 +28,8 @@ ip addr add 192.168.1.20/24 dev [name of the network card]
 ip addr change 192.168.1.20/24 dev [name of the network card]
 ip addr del 192.168.1.20/24 dev [name of the network card]
 ping [ip] # obviously
-
-# address resolution protocol
-arp # see the arp table
-arp -d [ip] # remove an ip from arp table
 ```
+[[apr]]
 [[TCP-UDP]]
 [[DHCP]]
 [[netmask]]
@@ -43,6 +40,7 @@ arp -d [ip] # remove an ip from arp table
 [[dig]]
 [[mtr]]
 [[netcat-telnet]]
+[[firewalls]]
 
 # ip and netmask
 first part => netwrok

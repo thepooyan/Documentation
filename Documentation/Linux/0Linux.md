@@ -1,7 +1,7 @@
 ---
-id: 0Linux
-aliases: []
-tags: []
+date: "2024-08-22"
+name: 0Linux
+time: 13:22
 ---
 
 [[Bash]]
@@ -27,6 +27,8 @@ tags: []
 [[pass]]
 [[gpg]]
 [[Hibernation]]
+[[ollama startup service]]
+
 ### distros:
 [[0Manjaro]]
 [[0NixOs]]
