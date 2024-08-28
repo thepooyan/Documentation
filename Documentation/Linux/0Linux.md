@@ -28,6 +28,7 @@ time: 13:22
 [[gpg]]
 [[Hibernation]]
 [[ollama startup service]]
+[[install docker]]
 
 ### distros:
 [[0Manjaro]]

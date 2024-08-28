@@ -1,12 +1,28 @@
-```Dockerfile
-from node:alpine  //get the base image from docker hub
+---
+date: "2024-08-28"
+name: Dockerfile
+time: 13:46
+---
 
-run echo hello!
+# general
+```dockerfile
+from node:20-alpine  //get the base image from docker hub
 
-copy . /app
 workdir /app
-cmd node app.js
 
+copy package.json .
+
+run npm i
+
+copy . .
+
+expose 30000
+
+cmd ["npm", "start", "--host"]
+
+
+```
+# more
+```
 entrypoint ["sleep"] //when called 'docker run image 5' 5 will be after sleep
-cmd ["5"] // kinda the default one if not said as abouv0e
 ```
