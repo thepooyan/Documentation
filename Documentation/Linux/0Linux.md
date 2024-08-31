@@ -29,6 +29,7 @@ time: 13:22
 [[Hibernation]]
 [[ollama startup service]]
 [[install docker]]
+[[Linux tricks]]
 
 ### distros:
 [[0Manjaro]]
